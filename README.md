@@ -1,5 +1,5 @@
 # Slide
-Este é um projeto simples de um slide de imagens criado utilizando `HTML`, `CSS` e `JavaScript`. O slide permite a visualização de várias imagens através de uma navegação por botões ou por movimentos de touch e mouse.
+Este é um projeto de um slide de imagens criado utilizando `HTML`, `CSS` e `JavaScript`. O slide permite a visualização de várias imagens através de uma navegação por botões ou por movimentos de touch e mouse.
 
 ## Instalação
 Para utilizar este slide, basta clonar o repositório ou baixar os arquivos necessários em sua máquina.
